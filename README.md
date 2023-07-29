@@ -1,1 +1,1 @@
-# chess_engine
+a simple chess engine using alpha-beta pruning
